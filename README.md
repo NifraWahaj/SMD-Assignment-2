@@ -8,5 +8,6 @@
 
 ---
 
+<img src="https://github.com/user-attachments/assets/b4c519aa-a544-4da7-a2b2-d82d178de6e8" alt="Demo GIF" width="600"/>
 
 ![smd2 (online-video-cutter com)](https://github.com/user-attachments/assets/b4c519aa-a544-4da7-a2b2-d82d178de6e8)
