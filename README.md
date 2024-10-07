@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 
 * **Splash Screen** : Displays a splash screen with translate and scale animations.
 * **Main To-Do List Page** : Features a user-friendly interface to view tasks with an "Add Task" FAB.
