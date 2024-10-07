@@ -7,21 +7,20 @@
     tools:context=".TaskInputFragment">
 
     <!-- Input field for Task Name -->
-
-    <!-- Save Button -->
     <EditText
         android:id="@+id/editTextTaskName"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="150dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
+        android:layout_marginTop="@dimen/task_input_margin_top"
+        android:layout_marginLeft="@dimen/task_input_margin_left"
+        android:layout_marginRight="@dimen/task_input_margin_right"
         android:hint="Enter Task Name"
-        android:minHeight="48dp"
+        android:minHeight="@dimen/task_input_min_height"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- Save Button -->
     <Button
         android:id="@+id/buttonSaveTask"
         android:layout_width="wrap_content"
@@ -31,6 +30,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         android:backgroundTint="@color/primary"
-        android:layout_marginTop="16dp"/>
-
+        android:layout_marginTop="@dimen/task_input_button_margin_top" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -2,13 +2,10 @@
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:fillAfter="true">
 
-    <!-- Translate animation: move from top to center -->
     <translate
         android:duration="1500"
         android:fromYDelta="-100%"
         android:toYDelta="180%" />
-
-    <!-- Scale animation: grow slightly in size -->
     <scale
         android:duration="1500"
         android:fromXScale="0.8"

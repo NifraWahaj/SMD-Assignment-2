@@ -1,2 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <!-- MainActivity Dimensions -->
+    <dimen name="main_text_margin_top">10dp</dimen>
+    <dimen name="main_text_size">20sp</dimen>
+    <dimen name="main_fab_margin_bottom">30dp</dimen>
+    <dimen name="main_fab_margin_right">20dp</dimen>
+    <dimen name="main_frame_width">409dp</dimen>
+    <dimen name="main_frame_height">643dp</dimen>
+
+    <!-- Splash Screen Dimensions -->
+    <dimen name="splash_image_margin_top">44dp</dimen>
+    <dimen name="splash_image_width">98dp</dimen>
+    <dimen name="splash_image_height">92dp</dimen>
+
+    <!-- Task Input Fragment Dimensions -->
+    <dimen name="task_input_margin_top">150dp</dimen>
+    <dimen name="task_input_margin_left">20dp</dimen>
+    <dimen name="task_input_margin_right">20dp</dimen>
+    <dimen name="task_input_button_margin_top">16dp</dimen>
+    <dimen name="task_input_min_height">48dp</dimen>
+
+    <!-- ListView Dimensions -->
+    <dimen name="list_view_margin">0dp</dimen>
+</resources>
